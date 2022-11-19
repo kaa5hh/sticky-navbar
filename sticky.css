@@ -17,7 +17,7 @@ header{
     position: fixed;
     float: left;
     margin:16px 32px;
-    color:#000;
+    color:white;
     font-weight: bold;
     font-size: 24px;
 }
@@ -36,8 +36,7 @@ text-align: center;
 margin:0;
 }
 nav.black ul{
-    background: darkgray;
-
+    background: black;
 }
 nav ul li {
     display: inline-block;
@@ -48,7 +47,7 @@ nav ul li {
 nav ul li a {
 
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 18px;
     font-family: sans-serif;
     text-transform: uppercase;
@@ -86,7 +85,7 @@ footer{
     color: aliceblue;
     border: none;
     border-radius: 10px;
-    background-color: #3E4851; 
+    background-color: black; 
     transition: 0.5s;
 }
 .btn:hover{
